@@ -12,3 +12,4 @@ else :
             is_prime = False
             break
     print("Yse" if is_prime else "No")
+# test
